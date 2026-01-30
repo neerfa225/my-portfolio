@@ -28,7 +28,7 @@ export default function Home() {
             </h1>
 
             <p className="mt-4 text-gray-400 max-w-xl text-lg leading-relaxed mb-8">
-              I create stunning, responsive, and user-friendly web experiences. Based in India, I turn complex problems into beautiful, simple interfaces.
+              I create stunning, responsive, and user-friendly web experiences.I turn complex problems into beautiful, simple interfaces.
             </p>
 
             <div className="flex flex-wrap gap-4">
