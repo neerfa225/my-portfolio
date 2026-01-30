@@ -105,6 +105,7 @@ export default function Home() {
             <div className="flex gap-6">
               <a href="https://www.linkedin.com/in/aafreen-fathima-n/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">LinkedIn</a>
               <a href="https://github.com/neerfa225" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">GitHub</a>
+              <a href="https://gitlab.com/neerfa225" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">GitLab</a>
             </div>
           </div>
         </div>

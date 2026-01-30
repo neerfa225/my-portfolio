@@ -8,7 +8,7 @@ const ProjectDetail = () => {
 
     useEffect(() => {
         window.scrollTo(0, 0);
-    }, []);
+    }, [id]);
 
     if (!project) {
         return (
@@ -175,14 +175,14 @@ const ProjectDetail = () => {
                 <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-12">
                     <div>
                         <h2 className="text-4xl md:text-5xl font-bold mb-4">
-                           Turning Ideas into Interactive UIs
+                            Turning Ideas into Interactive UIs
                         </h2>
                         <p className="text-gray-400 text-lg">
                             Actively seeking frontend developer opportunities
                         </p>
                     </div>
                     <div className="flex gap-4">
-                       
+
                         <a
                             href="/resume.pdf"
                             download="Afreen_Resume.pdf"
@@ -198,7 +198,7 @@ const ProjectDetail = () => {
             <footer className="py-12 px-6 border-t border-white/5 text-center">
                 <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
                     <p className="text-gray-500">© 2025 Afreen. All Rights Reserved</p>
-                    
+
                 </div>
             </footer>
         </div>
