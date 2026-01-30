@@ -103,7 +103,7 @@ export default function Home() {
           <div className="mt-16 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-500">
             <p>© 2025 Aafreen Fathima N. All Rights Reserved</p>
             <div className="flex gap-6">
-              <a href="https://www.linkedin.com/in/aafreen-fathima-n-032a99256/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">LinkedIn</a>
+              <a href="https://www.linkedin.com/in/aafreen-fathima-n/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">LinkedIn</a>
               <a href="https://github.com/neerfa225" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">GitHub</a>
             </div>
           </div>
