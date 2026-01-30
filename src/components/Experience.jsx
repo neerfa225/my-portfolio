@@ -49,7 +49,7 @@ const Experience = () => {
                     Experience<span className="text-purple-500">.</span>
                 </h2>
 
-                <div className="flex flex-col md:flex-row gap-12 items-start h-[200px]">
+                <div className="flex flex-col md:flex-row gap-12 items-start">
                     {/* Tabs List */}
                     <div className="flex md:flex-col overflow-x-auto md:overflow-visible w-full md:w-48 border-l border-gray-800 relative no-scrollbar">
                         {/* Active Indicator (Vertical) */}
